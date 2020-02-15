@@ -1,0 +1,190 @@
+body {
+  margin: 0 0 0 0;
+  padding-top: 84px;
+}
+
+.block {
+  width: 100%;
+  max-width: 2011px;
+}
+.container {
+  width: 1110px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 55px;
+  padding-right: 55px;
+}
+header {
+  position: fixed;
+  height: 84px;
+  background: #007765;
+  margin-top: -84px;
+}
+header div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 84px;
+}
+header nav {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: #ffffff;
+  text-align: center;
+}
+.ishere {
+  height: 403px;
+  background: url("green\ network.png");
+  background-position: center center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ishere h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 72px;
+  line-height: 84px;
+  text-align: center;
+  color: #ffffff;
+}
+.theproblem h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  color: #007765;
+  margin-bottom: 16px;
+}
+.theproblem p {
+  margin-top: 16px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 37px;
+}
+.hero {
+  background: url("blue\ network.png");
+  background-position: center center;
+  background-size: cover;
+  height: 483px;
+}
+.hero div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 483px;
+}
+.hero h1 {
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  color: #ffffff;
+  width: 893px;
+}
+.PPC div {
+  height: 604px;
+}
+.PPC h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  color: #007765;
+}
+.PPC img {
+  width: 115px;
+  height: 115px;
+  float: left;
+}
+.PPC p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 37px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.team {
+  background: #eeeeee;
+  height: 845px;
+  padding-top: 48px;
+}
+.team div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.team h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  color: #007765;
+}
+.member {
+  width: 350px;
+  height: 283px;
+  flex-direction: column;
+}
+.team img {
+  width: 168px;
+  height: 168px;
+}
+.team h2 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  color: #007765;
+  text-align: center;
+  margin-top: 12px;
+  margin-bottom: 0;
+}
+.team p {
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  margin: 0;
+}
+.end {
+  height: 176px;
+  background: #333333;
+}
+.end div {
+  height: 176px;
+  width: 540px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.end p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #ffffff;
+}
